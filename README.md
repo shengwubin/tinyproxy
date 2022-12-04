@@ -1,5 +1,10 @@
 # Tinyproxy
 
+# Changes
+
+1. Add Dockerfile
+2. Add a default config file `tinyproxy.conf`
+
 Tinyproxy is a small, efficient HTTP/SSL proxy daemon released under the
 GNU General Public License.  Tinyproxy is very useful in a small network
 setting, where a larger proxy would either be too resource intensive, or
